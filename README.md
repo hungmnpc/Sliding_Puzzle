@@ -1,4 +1,2 @@
 # Sliding_Puzzle
-* Cách chơi
-* alo
-* 
+		1
