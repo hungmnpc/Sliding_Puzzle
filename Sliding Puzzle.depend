@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1615608105 source:c:\users\admin\documents\code by hung\sliding puzzle\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+
+1618539355 source:c:\users\hung dinh\onedrive\máy tính\sliding puzzle-20210318t161023z-001\sliding puzzle\main.cpp
+	"SDL2.h"
+	"game.h"
+	<bits/stdc++.h>
+
+1618381538 c:\users\hung dinh\onedrive\máy tính\sliding puzzle-20210318t161023z-001\sliding puzzle\sdl2.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1618537769 source:c:\users\hung dinh\onedrive\máy tính\sliding puzzle-20210318t161023z-001\sliding puzzle\sdl2.cpp
+	"SDL2.h"
+
+1618537679 source:c:\users\hung dinh\onedrive\máy tính\sliding puzzle-20210318t161023z-001\sliding puzzle\game.cpp
+	"game.h"
+
+1618537837 c:\users\hung dinh\onedrive\máy tính\sliding puzzle-20210318t161023z-001\sliding puzzle\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1619065576 source:c:\users\hung dinh\sliding puzzle-20210318t161023z-001\sliding puzzle\game.cpp
+	"game.h"
+	"SDL2.h"
+
+1619065164 c:\users\hung dinh\sliding puzzle-20210318t161023z-001\sliding puzzle\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1619065164 source:c:\users\hung dinh\sliding puzzle-20210318t161023z-001\sliding puzzle\main.cpp
+	"SDL2.h"
+	"game.h"
+
+1618381538 c:\users\hung dinh\sliding puzzle-20210318t161023z-001\sliding puzzle\sdl2.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1618883552 source:c:\users\hung dinh\sliding puzzle-20210318t161023z-001\sliding puzzle\sdl2.cpp
+	"SDL2.h"
+
+1619626142 source:c:\users\hung dinh\onedrive\máy tính\sliding puzzle\game.cpp
+	"game.h"
+	"SDL2.h"
+
+1619626181 c:\users\hung dinh\onedrive\máy tính\sliding puzzle\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1618381538 c:\users\hung dinh\onedrive\máy tính\sliding puzzle\sdl2.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1619670518 source:c:\users\hung dinh\onedrive\máy tính\sliding puzzle\main.cpp
+	"SDL2.h"
+	"game.h"
+
+1618883552 source:c:\users\hung dinh\onedrive\máy tính\sliding puzzle\sdl2.cpp
+	"SDL2.h"
+
