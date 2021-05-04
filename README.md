@@ -1,3 +1,3 @@
 # Sliding_Puzzle
-	#Cách chơi
+	*Cách chơi
 		1
